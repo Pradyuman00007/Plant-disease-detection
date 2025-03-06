@@ -1,18 +1,23 @@
-🌱 Plant Disease Detection System
-🚀 A Streamlit-powered web app for detecting plant diseases using Deep Learning. This app allows users to upload images of plant leaves and predicts the disease with a confidence percentage using a trained TensorFlow model.
+# 🌱 Plant Disease Detection System  
 
-📌 Features
-✅ Upload an image of a plant leaf
-✅ AI-powered disease detection
-✅ Displays confidence level with a Pie Chart
-✅ Interactive and user-friendly UI
-✅ Built with Streamlit, OpenCV, TensorFlow, and Plotly
+🚀 **A Streamlit-powered web app for detecting plant diseases using Deep Learning.**  
+This app allows users to upload images of plant leaves and predicts the disease with a confidence percentage using a trained **TensorFlow model**.  
 
-🚀 Getting Started
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
+---
+
+## 📌 Features  
+✅ Upload an image of a plant leaf  
+✅ AI-powered disease detection  
+✅ Displays confidence level with a **Pie Chart**  
+✅ Interactive and user-friendly UI  
+✅ Built with **Streamlit, OpenCV, TensorFlow, and Plotly**  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 2️⃣ Install Dependencies
@@ -60,6 +65,3 @@ If you’d like to contribute, feel free to fork the repo and submit a PR! 💡
 📜 License
 This project is licensed under the MIT License.
 
-⭐ If you like this project, don't forget to star ⭐ the repository! 🚀🎉
-
-Let me know if you want any modifications! 😊
